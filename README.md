@@ -24,3 +24,5 @@ The pharmacy management system is developed using Java Swing GUI. The system pro
 
 1. History of purchase<br>
    ![History of purchase](img/md_view_bill.PNG)
+
+You can refer [this](https://github.com/omkar-dalvi/java-jdbc-oracle) repo to learn about Oracle JDBC in detail.
